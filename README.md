@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> </p>
 
-- 👨‍💻 Some of my projects are available at [https://portfolio-3bdullah.000webhostapp.com/](https://portfolio-3bdullah.000webhostapp.com/)
+- 👨‍💻 Some of my projects are available at [https://portfolio-3bdullah.000webhostapp.com](https://portfolio-3bdullah.000webhostapp.com)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science, Data Analytics**
 
