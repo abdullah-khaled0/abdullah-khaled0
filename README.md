@@ -5,13 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> </p>
 
-- 👨‍💻 Some of my projects are available at [https://portfolio-3bdullah.000webhostapp.com](https://portfolio-3bdullah.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://portfolio-3bdullah.000webhostapp.com)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science, Data Analytics**
 
 - 📫 How to reach me **dev.abdullah.khaled@gmail.com**
 
 - ⚡ Fun fact **I'm passionate about learning new things**
+
+- 📍 Check out some Projects on [**Google Play**](https://play.google.com/store/apps/dev?id=7064940667463374728)
+
+- 📊 Check out Tableau Projects at [](https://public.tableau.com/app/profile/abdullah.khaled)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
