@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> </p>
 
+- 📋 Check out My Resume at [**Resume**](https://drive.google.com/file/d/1Jc4dcQu214b9joNNynQHdHjhQk58dfNu/view?usp=sharing)
+
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://personal-portfolio-288e7.firebaseapp.com/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science, Data Analytics**
