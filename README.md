@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> </p>
 
-- 📋 Check out My Resume at [**Resume**](https://drive.google.com/file/d/1VJMeKQkT9StRZWSFPRphEUGHMS-JPWWC/view?usp=sharing)
+- 📋 Check out My Resume at [**Resume**](https://docs.google.com/document/d/1CaCilGi21X6FhR_UL8C14c5wqQTVG-W_/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)
 
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://personal-portfolio-288e7.firebaseapp.com/)
 
