@@ -7,11 +7,9 @@
 
 - 📋 Check out My Resume at [**Resume**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)
 
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://personal-portfolio-288e7.firebaseapp.com/)
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science, Data Analytics**
 
-- 📫 How to reach me **dev.abdullah.khaled@gmail.com**
+- 📫 How to reach me **dev.abdullah.khaled@gmail.com** | **+20 1557504902**
 
 - ⚡ Fun fact **I'm passionate about learning new things**
 
@@ -113,8 +111,135 @@
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> </p>
+  </a>
+</p>
 
+<br>
+
+### Education
+**Bachelor's Degree in Information Systems**  
+*Beni Suef University*  
+**GPA:** 3.1 / 4.0  
+*October 2021 - July 2025*
+
+
+<br>
+
+## 🛠️ Technical Skills
+
+### 🖥️ Programming Languages
+- **Python**, **R**
+
+### 🤖 Machine Learning & NLP
+- **Scikit-Learn**, **Numpy**, **Pandas**, **Matplotlib**
+- **PySpark**, **Spacy**, **NLTK**, **Transformers**
+
+### 🧠 Deep Learning & GenAI
+- **PyTorch**, **Tensorflow**, **Langchain**, **Cohere**
+
+### 🚀 Deployment & MLOps
+- **Streamlit**, **Flask**, **FastAPI**, **Docker**
+- **MLFlow**, **DVC**, **MLOps**, **CI/CD**
+
+### 📊 Data Science & Business Intelligence
+- **SQL** (MySQL, MS Server), **Airflow**, **DBT**, **SSIS**, **ETL**
+- **NoSQL**, **Tableau**, **Power BI**, **Excel**
+- **Data visualization**, **Data modelling**, **Database design**, **Data warehouse management**
+- **Snowflake**, **Statistics**, **Time series**
+- **Experimental design**, **Hypothesis testing**, **Web Scraping**
+
+### ☁️ Familiar with Cloud Computing & Services
+- **BigQuery**, **Amazon SageMaker**, **Azure Databricks**
+- **S3 Bucket**
+
+## 🌟 Soft Skills
+### 🎯 Problem-Solving & Critical Thinking
+- Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
+  
+### 🧑‍🤝‍🧑 Teamwork & Collaboration
+- Experience working in **cross-functional teams**.
+- Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
+
+### 💡 Creativity & Innovation
+- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
+
+### 📅 Time Management & Organization
+- Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
+
+### 🎙️ Communication & Presentation
+- Skilled at conveying technical insights to diverse audiences, making complex data **accessible and actionable**.
+- Proficient in **presenting data-driven findings** clearly and persuasively.
+
+### 📈 Continuous Learning
+- A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
+
+<br>
+
+# 📊 Recent Projects in Data Analytics & AI
+
+## 🛒 Customer Segmentation Based on RFM Analysis  
+**Description:**  
+Thrilled to share insights from my latest project, **Customer Segmentation based on RFM** for a UK-based online retailer specializing in unique gifts. This project analyzed customer transactions to segment audiences more effectively using **Recency, Frequency, and Monetary (RFM)** analysis.
+
+[![Customer Segmentation Based on RFM](https://github.com/abdullah0150/Images/blob/main/images/project-2.png)](https://github.com/abdullah-khaled0/Customer-Segmentation-based-on-RFM/blob/main/Presentation.pdf)
+**Business Goal:** Segment customers for targeted marketing strategies. 
+
+**Tools & Technologies:** RFM Analysis, Python, Data Analytics 
+
+---
+
+
+## 🎮 A/B Testing for Cookie Cats Mobile Game  
+**Description:**  
+Led an A/B testing project, analyzing player retention between control and test groups. Using statistical techniques like **Shapiro**, **Levene**, and **T-tests**, I provided business recommendations that improved gameplay and boosted retention rates.
+
+[![A/B Testing Cookie Cats](https://github.com/abdullah0150/Images/blob/main/images/project-1.png)](https://github.com/abdullah-khaled0/A-B-Testing-with-Cookie-Cats-mobile-game-dataset/blob/main/presentation.pdf)  
+**Tools & Technologies:** A/B Testing, Python, Statistical Analysis  
+
+---
+
+
+## ⚙️ Automated Machine Learning Pipeline for Data Preprocessing, Training, and Evaluation  
+**Description:**  
+This project demonstrates a fully automated pipeline using **Python** and **DVC**. It covers data preprocessing, model training with **XGBoost**, and model evaluation. The pipeline ensures efficient versioning and reproducibility using **DVC**.
+
+[![Automated ML Pipeline](https://github.com/abdullah0150/Images/blob/main/images/project-3.png)](https://www.linkedin.com/posts/abdullah-khaled-0608a9236_machinelearning-activity-7236010396329869312-zLAS?utm_source=share&utm_medium=member_desktop)  
+**Tools & Technologies:** Python, DVC, XGBoost, Machine Learning Pipeline  
+
+---
+
+
+## 🚀 Comprehensive Sales Performance Enhancement  
+**Description:**  
+I analyzed a sales dataset, resulting in a 39% Year-over-Year (YoY) growth in sales. By visualizing channel performance and promotional effectiveness through **Power BI**, I provided insights that optimized future strategies, driving revenue growth.
+
+[![Sales Performance Enhancement](https://github.com/abdullah0150/Images/blob/main/images/project-5.png)](https://github.com/abdullah-khaled0/Sales-Dashboard-in-PowerBI/blob/main/presentation.pdf)  
+**Tools & Technologies:** Power BI, Data Visualization, Dax
+
+---
+
+
+## 💼 Customer Personality Analysis  
+**Description:**  
+Conducted segmentation analysis using **K-Means clustering** to categorize customers by behavior. These insights enabled the company to design more targeted marketing strategies, improving customer engagement and revenue generation.
+
+[![Customer Personality Analysis](https://github.com/Heba-A-Saleh/images1/blob/main/lv_0_20230317181948.gif?raw=truehttps://github.com/Heba-A-Saleh/images1/blob/main/lv_0_20230317181948.gif?raw=true)](https://www.kaggle.com/code/abdullah7aled/customer-personality-analysis-in-python)  
+**Tools & Technologies:** K-Means Clustering, Python, Data Segmentation  
+
+---
+
+
+## 🎥 Movie Recommendation System  
+**Description:**  
+Built a movie recommendation system using the **MovieLens 100k** dataset, optimized with **SVD** and **grid search**, achieving an RMSE score of 0.94 to enhance the user experience on streaming platforms.
+
+[![Movie Recommendation System](https://github.com/abdullah0150/Images/blob/main/images/project-4.png)](https://github.com/your-username/your-repo-link)  
+**Tools & Technologies:** MovieLens Dataset, SVD, Grid Search, Python  
+
+---
+
+  
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact" alt="abdullah-khaled0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&locale=en" alt="abdullah-khaled0" /></p>
