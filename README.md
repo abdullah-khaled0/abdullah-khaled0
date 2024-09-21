@@ -175,7 +175,7 @@
 
 <br>
 
-# 📊 Recent Projects in Data Analytics & AI
+# 📊 Recent Projects in Data Analytics
 
 ## 🛒 Customer Segmentation Based on RFM Analysis  
 **Description:**  
