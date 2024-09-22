@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif)
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
