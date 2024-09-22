@@ -53,7 +53,40 @@
 
 ---
 
+<br>
 
+# 💼 Experience
+
+---
+
+## 🧑‍💻 Data Scientist Intern  
+**WorldQuant University** · *Remote*  
+**May 2023 - May 2023** (1 month)  
+
+**Key Responsibilities:**
+- Engaged in the **Applied Data Science Lab**, applying data science methodologies to real-world projects.
+
+[![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Hypothesis_testing)  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+
+---
+
+## 🖥️ Software Engineer  
+**Self-employed**  
+**Nov 2021 - Dec 2022** (1 year 2 months)  
+**Location:** Egypt  
+
+**Key Projects:**
+- **FCAI App:** Designed to assist classmates with academic materials, streamlining access to resources.
+- **Tasbeeh App:** Developed a digital tool for tasbeeh, enhancing users' spiritual practices.
+- **Hoozgram:** Built an app for mood tracking, promoting emotional awareness.
+- **3D Game:** Created a 3D game using Unity Engine, offering engaging gameplay experiences.
+- **AR App:** Developed an augmented reality application, delivering immersive experiences.
+- **Food Recipes App:** Released a user-friendly app featuring a variety of food recipes.
+- **Website Development:** Built dynamic websites using various technologies, showcasing a full-stack development skill set.
+
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com) [![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Problem_solving)  [![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=nosql&logoColor=white)](https://www.nosql.com) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Augmented Reality](https://img.shields.io/badge/Augmented_Reality-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Augmented_reality) [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.com)  [![Web Development](https://img.shields.io/badge/Web_Development-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Web_development) [![User Experience (UX)](https://img.shields.io/badge/User_Experience-00BFFF?style=for-the-badge)](https://en.wikipedia.org/wiki/User_experience)  [![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development) [![Version Control (Git)](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+
+---
 
 
 
