@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -33,7 +33,7 @@
   <a href="https://wa.me/+201557504902" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
   </a>
-  <a href="https://t.me/3bdullah_khaled" target="_blank">
+  <a href="https://t.me" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - Abdullah Khaled" height="40" width="40" />
   </a>
 </p>
