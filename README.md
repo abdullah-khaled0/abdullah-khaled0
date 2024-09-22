@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/bbefa799786133.5efa9bf3d1b49.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif)
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
