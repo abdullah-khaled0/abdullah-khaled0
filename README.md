@@ -140,10 +140,12 @@
 ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS Kinesis](https://img.shields.io/badge/AWS%20Kinesis-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white)
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat&logo=amazon-sagemaker&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-1E1E1E?style=flat&logo=azure-databricks&logoColor=white)
 ![S3 Bucket](https://img.shields.io/badge/S3%20Bucket-569A31?style=flat&logo=amazon-s3&logoColor=white)
+
 
 
 <br>
