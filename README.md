@@ -33,9 +33,6 @@
   <a href="https://wa.me/+201557504902" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
   </a>
-  <a href="https://t.me" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - Abdullah Khaled" height="40" width="40" />
-  </a>
 </p>
 
 
@@ -144,6 +141,8 @@
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-1E1E1E?style=flat&logo=azure-databricks&logoColor=white)
 ![S3 Bucket](https://img.shields.io/badge/S3%20Bucket-569A31?style=flat&logo=amazon-s3&logoColor=white)
 
+<br>
+
 ## 🌟 Soft Skills
 
 ### 🎯 Problem-Solving & Critical Thinking
@@ -246,11 +245,128 @@ Built a movie recommendation system using the **MovieLens 100k** dataset, optimi
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SVD](https://img.shields.io/badge/SVD_Model-FF4500?style=flat) ![Grid Search](https://img.shields.io/badge/Grid_Search-orange)
 
+
 ---
+
+<br>
+
+# 🏅 Certifications
+
+## 🚀 Machine Learning & Data Science
+
+- **[Machine Learning Specialization](#)**  
+  *Issued Feb 2023 - DeepLearning.AI*  
+  ![ML Skill](https://img.shields.io/badge/-Machine%20Learning-blue)
+
+- **[Machine Learning Engineer (MLOps)](#)**  
+  *Issued Aug 2024 - DataCamp*  
+  ![MLOps Skill](https://img.shields.io/badge/-MLOps-9cf)
+
+- **[The Machine Learning Process A-Z](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![ML Process](https://img.shields.io/badge/-Machine%20Learning%20Process-green)
+
+- **[Deep Learning Specialization](#)**  
+  *Issued Mar 2023 - DeepLearning.AI*  
+  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-yellowgreen)
+
+- **[IBM AI Engineering Professional](#)**  
+  *Issued Apr 2023 - Coursera*  
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-orange)  
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-brightgreen)
+
+- **[TensorFlow Professional](#)**  
+  *Issued Apr 2023 - DeepLearning.AI*  
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue)
+
+- **[Machine Learning with Decision Trees and Random Forests](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![Decision Trees](https://img.shields.io/badge/-Decision%20Trees-brightgreen)
+  
+
+## 📊 Data Analysis & Visualization
+
+- **[Google Data Analytics Professional](#)**  
+  *Issued Apr 2023 - Google*  
+  ![SQL](https://img.shields.io/badge/-SQL-blueviolet)  
+  ![Tableau](https://img.shields.io/badge/-Tableau-orange)
+
+- **[Data Analysis with Python](#)**  
+  *Issued Feb 2023 - freeCodeCamp*  
+  ![Python](https://img.shields.io/badge/-Python-blue)
+
+- **[Advanced Microsoft Excel](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![Excel Skill](https://img.shields.io/badge/-Excel-success)
+
+- **[Building Business Reports Using Power BI](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow)
+
+## 🧮 Mathematics & Statistics
+
+- **[Mathematics](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![Mathematics](https://img.shields.io/badge/-Mathematics-ff69b4)
+
+- **[Statistics](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![Statistics](https://img.shields.io/badge/-Statistics-yellow)
+
+- **[Probability](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![Probability](https://img.shields.io/badge/-Probability-blueviolet)
+
+- **[Calculus for Machine Learning and Data Science](#)**  
+  *Issued Feb 2023 - DeepLearning.AI*  
+  ![Calculus](https://img.shields.io/badge/-Calculus-green)
+
+- **[Linear Algebra for Machine Learning and Data Science](#)**  
+  *Issued Feb 2023 - DeepLearning.AI*  
+  ![Linear Algebra](https://img.shields.io/badge/-Linear%20Algebra-red)
+
+## 🛠️ Data Engineering
+
+- **[Associate Data Engineer in SQL](#)**  
+  *Issued Jul 2024 - DataCamp*  
+  ![SQL](https://img.shields.io/badge/-SQL-blueviolet)  
+  ![ETL](https://img.shields.io/badge/-ETL-orange)
+
+## 📈 Communication & Strategy
+
+- **[Communication and Presentation Skills for Analysts and Managers](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![Communication](https://img.shields.io/badge/-Communication%20Skills-lightblue)
+
+- **[Data Strategy](#)**  
+  *Issued Nov 2023 - 365 Data Science*  
+  ![Data Strategy](https://img.shields.io/badge/-Data%20Strategy-8A2BE2)
+
+
+---
+
+
   
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact" alt="abdullah-khaled0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&locale=en" alt="abdullah-khaled0" /></p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  
+  <!-- Languages Card -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <h3>Top Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+  
+  <!-- Stats Card -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+  
+  <!-- Streak Stats -->
+  <div style="text-align: center; margin-bottom: 20px;">
+    <h3>Current Streak</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&" alt="Current Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&" alt="abdullah-khaled0" /></p>
+</div>
