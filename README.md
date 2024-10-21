@@ -256,7 +256,7 @@ This project will guide you through essential steps in working with imbalanced d
 ---
 
 
-## 🚚 Supply Chain Analysis
+# 🚚 Supply Chain Analysis
 
 **Description:**  
 🚀 Excited to present my latest project on **Supply Chain Analysis** using DataCo Global's dataset. This project dives deep into key areas like **Provisioning, Production, Sales,** and **Commercial Distribution**. The goal is to provide actionable insights for enhancing supply chain efficiency.
@@ -275,7 +275,7 @@ This project will guide you through essential steps in working with imbalanced d
 ---
 
 
-## 🛒 Customer Segmentation Based on RFM Analysis  
+# 🛒 Customer Segmentation Based on RFM Analysis  
 
 **Description:**  
 🚀 Excited to share my latest project on **Customer Segmentation** using **RFM (Recency, Frequency, Monetary)** analysis for a UK-based online retailer specializing in unique gifts. This project analyzed customer transactions to segment audiences effectively.
@@ -293,7 +293,7 @@ This project will guide you through essential steps in working with imbalanced d
 ---
 
 
-## 🎮 A/B Testing for Cookie Cats Mobile Game  
+# 🎮 A/B Testing for Cookie Cats Mobile Game  
 
 **Description:**  
 🔍 Led an **A/B Testing** analysis for the mobile game **Cookie Cats**, evaluating player retention between control and test groups. Used statistical techniques like **Shapiro-Wilk**, **Levene's Test**, and **T-tests** to provide business recommendations that improved retention rates.
@@ -307,7 +307,7 @@ This project will guide you through essential steps in working with imbalanced d
 
 ---
 
-## ⚙️ Automated Machine Learning Pipeline for Data Preprocessing, Training, and Evaluation  
+# ⚙️ Automated Machine Learning Pipeline for Data Preprocessing, Training, and Evaluation  
 
 **Description:**  
 Built a fully automated machine learning pipeline using **Python** and **DVC**. This pipeline handles data preprocessing, model training using **XGBoost**, and evaluation. Versioning and reproducibility are ensured via **DVC**.
@@ -321,7 +321,7 @@ Built a fully automated machine learning pipeline using **Python** and **DVC**. 
 
 ---
 
-## 🚀 Comprehensive Sales Performance Enhancement  
+# 🚀 Comprehensive Sales Performance Enhancement  
 
 **Description:**  
 Analyzed sales data, leading to a **39% YoY growth** in sales by visualizing channel performance and promotional effectiveness using **Power BI**. Provided actionable insights that optimized future sales strategies, driving revenue growth.
@@ -335,7 +335,7 @@ Analyzed sales data, leading to a **39% YoY growth** in sales by visualizing cha
 
 ---
 
-## 💼 Customer Personality Analysis  
+# 💼 Customer Personality Analysis  
 
 **Description:**  
 Performed customer segmentation using **K-Means Clustering** to categorize customers by behavioral patterns. These insights helped the company design personalized marketing strategies, improving customer engagement and revenue.
@@ -349,7 +349,7 @@ Performed customer segmentation using **K-Means Clustering** to categorize custo
 
 ---
 
-## 🎥 Movie Recommendation System  
+# 🎥 Movie Recommendation System  
 
 **Description:**  
 Built a movie recommendation system using the **MovieLens 100k** dataset, optimizing with **SVD** and **grid search**. Achieved an RMSE score of 0.94 to enhance user experience on streaming platforms.
