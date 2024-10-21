@@ -186,12 +186,31 @@
 ---
 
 
+# 📊 Walmart Analytics
+
+## Project Overview
+This project aims to develop a machine learning solution to predict **weekly retail sales** for a chain of stores, utilizing various external factors such as temperature, fuel prices, CPI (Consumer Price Index), unemployment rates, and holiday flags. Accurate sales forecasting is essential for efficient inventory management, marketing strategies, and optimizing operational processes.
+
+[![Walmart-Analytics Banner](https://www.supplychainbrain.com/ext/resources/2022/11/15/WALMART-STOREFRONT-iStock-1205217071.jpg?t=1668529933&width=1080)](https://github.com/abdullah-khaled0/Walmart-Analytics)
+
+[![Dash Banner](https://github.com/abdullah-khaled0/Walmart-Analytics/blob/main/dashboard.png)](https://github.com/abdullah-khaled0/Walmart-Analytics)
+
+
+## Project Objective
+The objective is to build a robust predictive model that can accurately forecast weekly retail sales based on the provided features by leveraging historical data and external indicators.
+
+
+<br>
+
+---
+
+
 # Time Series Forecast with Prophet
 
 ## 📚 Introduction
 This repository demonstrates a time series forecasting project using **Prophet**, Facebook's open-source library designed for forecasting tasks. In this project, we aim to forecast stock prices. It's important to note that historical prices alone do not indicate whether a price will rise or fall. Instead, we will leverage additional variables and utilize machine learning techniques for stock price prediction, going beyond mere historical analysis.
 
-![Time Series Forecast](https://www.timescale.com/blog/content/images/2022/06/candlesticks-2.png)
+[![Time Series Forecast](https://www.timescale.com/blog/content/images/2022/06/candlesticks-2.png)](https://github.com/abdullah-khaled0/ts-forecasting-with-prophet)
 
 ## 📈 Streamlit App
 This project includes a **Streamlit** app that provides an interactive interface for stock price analysis and forecasting.
@@ -211,7 +230,7 @@ In this project, we will analyze house prices in **Melbourne, Australia**, to an
 
 Additionally, we **predict house prices** using various machine learning models to provide an accurate forecast for future buyers and investors.
 
-![Melbourne](https://media.nomadicmatt.com/2024/melbthings.jpeg)
+[![Melbourne](https://media.nomadicmatt.com/2024/melbthings.jpeg)](https://github.com/abdullah-khaled0/Melbourne-Australia-Housing-Market-Analysis-and-Predicting)
 
 ## 🔍 Key Questions
 The analysis will focus on the following key areas:
@@ -234,7 +253,7 @@ The analysis will focus on the following key areas:
 ## Introduction
 The **Credit Fraud Detector** is a machine learning project designed to accurately detect fraudulent transactions. Using various predictive models, we aim to determine whether a transaction is a normal payment or fraudulent. The dataset features are anonymized and scaled to protect privacy, but key insights can still be uncovered through analysis.
 
-![Credit Fraud Image](https://www.techopedia.com/wp-content/uploads/2024/06/60-Global-Credit-Card-Fraud-Statistics-in-2024.webp)
+[![Credit Fraud Image](https://www.techopedia.com/wp-content/uploads/2024/06/60-Global-Credit-Card-Fraud-Statistics-in-2024.webp)](https://github.com/abdullah-khaled0/Credit-Fraud-Detector)
 
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?style=flat&logo=kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
@@ -261,7 +280,7 @@ This project will guide you through essential steps in working with imbalanced d
 **Description:**  
 🚀 Excited to present my latest project on **Supply Chain Analysis** using DataCo Global's dataset. This project dives deep into key areas like **Provisioning, Production, Sales,** and **Commercial Distribution**. The goal is to provide actionable insights for enhancing supply chain efficiency.
 
-![Supply Chain Image](https://png.pngtree.com/thumb_back/fw800/background/20230722/pngtree-futuristic-automobiles-and-digital-supply-chain-3d-rendering-and-illustrator-design-image_3868888.jpg)
+[![Supply Chain Image](https://png.pngtree.com/thumb_back/fw800/background/20230722/pngtree-futuristic-automobiles-and-digital-supply-chain-3d-rendering-and-illustrator-design-image_3868888.jpg)](https://github.com/abdullah-khaled0/Supply-Chain-Analysis-using-R)
 
 
 **Business Goal:**  
