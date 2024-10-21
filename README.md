@@ -177,7 +177,77 @@
 
 # 📊 Recent Projects in Data Analytics
 
+
 ---
+
+
+# Is the Housing Market Heating in Melbourne? 🏡🔥
+
+## 📌 Introduction
+In this project, we will analyze house prices in **Melbourne, Australia**, to answer critical questions about the city's housing market. The goal is to provide insights into the current trends, such as which sectors are the most expensive, how house prices have evolved over the years, and whether certain months see more sales activity.
+
+Additionally, we **predict house prices** using various machine learning models to provide an accurate forecast for future buyers and investors.
+
+![Melbourne](https://media.nomadicmatt.com/2024/melbthings.jpeg)
+
+## 🔍 Key Questions
+The analysis will focus on the following key areas:
+- Which sectors are the **most expensive** in Melbourne?
+- By how much have **prices increased** over the years?
+- Is there a particular month where **houses are sold more** frequently?
+- How are **interest rates** and **foreign investment** impacting housing prices?
+- Can we **predict house prices** based on historical data?
+
+[![Explore the Kaggle Notebook](https://img.shields.io/badge/Explore%20Notebook-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/abdullah7aled/melbourne-housing-market-analysis-and-predicting)
+
+
+
+---
+
+
+# 💳 Credit Fraud Detector
+
+## Introduction
+The **Credit Fraud Detector** is a machine learning project designed to accurately detect fraudulent transactions. Using various predictive models, we aim to determine whether a transaction is a normal payment or fraudulent. The dataset features are anonymized and scaled to protect privacy, but key insights can still be uncovered through analysis.
+
+![Credit Fraud Image](https://www.techopedia.com/wp-content/uploads/2024/06/60-Global-Credit-Card-Fraud-Statistics-in-2024.webp)
+
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?style=flat&logo=kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+This project will guide you through essential steps in working with imbalanced datasets, including handling distribution issues, applying various sampling techniques, and evaluating classifier performance.
+
+## Goals
+- Understand the distribution of the provided data.
+- Create a balanced dataset using the NearMiss algorithm (50/50 ratio of Fraud vs. Non-Fraud transactions).
+- Test multiple classifiers and identify the most accurate one.
+- Build a Neural Network and compare its performance against the best classifier.
+- Understand common mistakes when working with imbalanced datasets.
+
+## Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+
+
+---
+
+
+## 🚚 Supply Chain Analysis
+
+**Description:**  
+🚀 Excited to present my latest project on **Supply Chain Analysis** using DataCo Global's dataset. This project dives deep into key areas like **Provisioning, Production, Sales,** and **Commercial Distribution**. The goal is to provide actionable insights for enhancing supply chain efficiency.
+
+![Supply Chain Image](https://png.pngtree.com/thumb_back/fw800/background/20230722/pngtree-futuristic-automobiles-and-digital-supply-chain-3d-rendering-and-illustrator-design-image_3868888.jpg)
+
+
+**Business Goal:**  
+🎯 To improve decision-making and operational efficiency within the supply chain by analyzing data across multiple stages of the process, from provisioning to commercial distribution.
+
+**Tools & Technologies:**  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-2A61BC?style=flat&logo=ggplot2&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+
+
+---
+
 
 ## 🛒 Customer Segmentation Based on RFM Analysis  
 
