@@ -181,6 +181,23 @@
 ---
 
 
+# Time Series Forecast with Prophet
+
+## 📚 Introduction
+This repository demonstrates a time series forecasting project using **Prophet**, Facebook's open-source library designed for forecasting tasks. In this project, we aim to forecast stock prices. It's important to note that historical prices alone do not indicate whether a price will rise or fall. Instead, we will leverage additional variables and utilize machine learning techniques for stock price prediction, going beyond mere historical analysis.
+
+![Time Series Forecast](https://www.timescale.com/blog/content/images/2022/06/candlesticks-2.png)
+
+## 📈 Streamlit App
+This project includes a **Streamlit** app that provides an interactive interface for stock price analysis and forecasting.
+
+[![Open Streamlit App](https://img.shields.io/badge/Open-Streamlit_App-red?style=for-the-badge&logo=streamlit)](https://ts-forecasting-with-prophet.streamlit.app/)
+
+
+
+---
+
+
 # Is the Housing Market Heating in Melbourne? 🏡🔥
 
 ## 📌 Introduction
