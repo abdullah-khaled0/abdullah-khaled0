@@ -29,6 +29,10 @@
   </a>
   <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
+    <a href="https://share.streamlit.io/user/abdullah-khaled0" target="_blank">
+    <img align="center" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit - Abdullah Khaled" height="40" width="40" />
+</a>
+
   </a>
   <a href="https://wa.me/+201557504902" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
