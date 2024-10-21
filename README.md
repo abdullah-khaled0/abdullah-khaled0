@@ -181,6 +181,7 @@
 
 # 📊 Recent Projects in Data Analytics
 
+<br>
 
 ---
 
@@ -198,6 +199,7 @@ This project includes a **Streamlit** app that provides an interactive interface
 [![Open Streamlit App](https://img.shields.io/badge/Open-Streamlit_App-red?style=for-the-badge&logo=streamlit)](https://ts-forecasting-with-prophet.streamlit.app/)
 
 
+<br>
 
 ---
 
@@ -222,6 +224,7 @@ The analysis will focus on the following key areas:
 [![Explore the Kaggle Notebook](https://img.shields.io/badge/Explore%20Notebook-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/abdullah7aled/melbourne-housing-market-analysis-and-predicting)
 
 
+<br>
 
 ---
 
@@ -248,6 +251,7 @@ This project will guide you through essential steps in working with imbalanced d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
+<br>
 
 ---
 
@@ -266,6 +270,7 @@ This project will guide you through essential steps in working with imbalanced d
 **Tools & Technologies:**  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-2A61BC?style=flat&logo=ggplot2&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 
+<br>
 
 ---
 
@@ -283,7 +288,10 @@ This project will guide you through essential steps in working with imbalanced d
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+<br>
+
 ---
+
 
 ## 🎮 A/B Testing for Cookie Cats Mobile Game  
 
@@ -294,6 +302,8 @@ This project will guide you through essential steps in working with imbalanced d
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+<br>
 
 ---
 
@@ -307,6 +317,8 @@ Built a fully automated machine learning pipeline using **Python** and **DVC**. 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-F37626?style=flat&logo=dvc&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat&logo=xgboost&logoColor=white)
 
+<br>
+
 ---
 
 ## 🚀 Comprehensive Sales Performance Enhancement  
@@ -319,6 +331,8 @@ Analyzed sales data, leading to a **39% YoY growth** in sales by visualizing cha
 **Tools & Technologies:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)
 
+<br>
+
 ---
 
 ## 💼 Customer Personality Analysis  
@@ -330,6 +344,8 @@ Performed customer segmentation using **K-Means Clustering** to categorize custo
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-FF6347?style=flat&logo=clustering)   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+<br>
 
 ---
 
