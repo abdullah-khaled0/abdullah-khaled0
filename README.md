@@ -30,7 +30,7 @@
   <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
     <a href="https://share.streamlit.io/user/abdullah-khaled0" target="_blank">
-    <img align="center" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit - Abdullah Khaled" height="40" width="40" />
+    <img align="center" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit - Abdullah Khaled" height="40" width="40" />
 </a>
 
   </a>
