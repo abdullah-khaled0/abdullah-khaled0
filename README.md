@@ -1,4 +1,4 @@
-![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
+![MasterHead](https://verifybee.com/wp-content/uploads/2019/11/Header_7cc3c856f5b86ad98f1232bd17cecaf4.gif)
 <h1 align="center">💰Sales & 🎯Marketing Analyst</h1>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
