@@ -178,7 +178,36 @@
 
 <br>
 
+---
+
 # 📊 Recent Projects in Data Analytics
+
+<br>
+
+---
+
+
+# 💳 Bank Marketing Campaign - Opening A Term Deposit
+
+## Marketing Introduction
+The **Bank Marketing Campaign - Opening A Term Deposit** project focuses on predicting the success of marketing campaigns aimed at encouraging customers to open a term deposit. According to Kotler and Armstrong (2010), successful campaigns focus on understanding customer needs and satisfaction. The analysis considers various factors that influence whether a marketing campaign will succeed or not.
+
+[![Bank Marketing](https://images.ctfassets.net/9bmss1jcvj9u/2XTFt7DyVHeVQ3lyAhuFmI/861a32ab9c38c7afb221cb11163e274d/Cash-deposits.png)](https://github.com/abdullah-khaled0/BankMarketingCampaign-OpeningATermDeposit)
+
+[![Explore the Project](https://img.shields.io/badge/Explore-Project-blue?style=flat&logo=github)](https://github.com/abdullah-khaled0/BankMarketingCampaign-OpeningATermDeposit)
+
+## Project Overview
+In this project, we analyze customer data and apply machine learning models to predict the likelihood of a customer subscribing to a term deposit. This project explores key features influencing customer decisions and aims to optimize marketing strategies.
+
+## Goals
+- Analyze the dataset to understand key customer characteristics.
+- Predict the likelihood of customers subscribing to a term deposit.
+- Explore factors that determine successful marketing outcomes.
+- Build and evaluate models to improve the accuracy of campaign success predictions.
+
+## Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 
 <br>
 
