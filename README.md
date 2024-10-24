@@ -41,7 +41,7 @@
 
 <br>
 
-### 🎓 Education
+# 🎓 Education
 
 ---
 
@@ -92,7 +92,7 @@
 
 <br>
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -153,7 +153,7 @@
 
 <br>
 
-## 🌟 Soft Skills
+# 🌟 Soft Skills
 
 ### 🎯 Problem-Solving & Critical Thinking
 - Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
