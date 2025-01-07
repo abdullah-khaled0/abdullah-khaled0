@@ -38,6 +38,13 @@
   </a>
 </p>
 
+<p align="left">
+  <strong>My Profile on Learning Platforms:</strong>
+  <a href="https://www.coursera.org/user/a417b4d4afc4a0d67abb5bacc39083a5" target="_blank">Coursera</a> |
+  <a href="learn.365datascience.com/profile/abdullah-khaled-4/" target="_blank">365DataScience</a> |
+  <a href="https://www.datacamp.com/portfolio/3bdullah" target="_blank">DataCamp</a>
+</p>
+
 
 <br>
 
