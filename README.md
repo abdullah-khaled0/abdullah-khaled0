@@ -1,7 +1,7 @@
-![MasterHead](https://verifybee.com/wp-content/uploads/2019/11/Header_7cc3c856f5b86ad98f1232bd17cecaf4.gif)
+![MasterHead](https://i.pinimg.com/originals/4f/6a/47/4f6a47c1463daf5b5856dd9b12c8a3d2.png)
 <h1 align="center"></h1>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> 
@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
-- 📫 **Reach me at**: [dev.abdullah.khaled@gmail.com](mailto:dev.abdullah.khaled@gmail.com) | **+20 1557504902**  
+- 📫 **Reach me at**: [dev.abdullah.khaled@gmail.com](mailto:dev.abdullah.khaled@gmail.com) 
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
 - 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/abdullah.khaled)  
 
@@ -29,12 +29,18 @@
   <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
     <a href="https://share.streamlit.io/user/abdullah-khaled0" target="_blank">
-    <img align="center" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit - Abdullah Khaled" height="40" width="40" />
+    <img align="center" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit - Abdullah Khaled" height="40" width="40" />
 </a>
 
   </a>
   <a href="https://wa.me/+201557504902" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/3bdullah_7aled/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/abdullahkhaled-4050/" target="_blank">
+    <img align="center" src="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.png" alt="Microsoft Learn - Abdullah Khaled" height="40" width="40" />
   </a>
 </p>
 
