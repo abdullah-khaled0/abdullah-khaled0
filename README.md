@@ -1,20 +1,20 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/05/72/47/98/1000_F_572479897_5B8aBbDk4M3QnrH1lojGJJGuqnFXbjL1.jpg)
 <h1 align="center"></h1>
 
-<img align="right" alt="Coding" width="450" src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" />
+<img align="right" alt="Coding" width="430" src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> 
+  <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=ff6f61&style=for-the-badge" alt="abdullah-khaled0" /> 
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
-- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
-- 📫 **Reach me at**: [dev.abdullah.khaled@gmail.com](mailto:dev.abdullah.khaled@gmail.com) 
-- ⚡ **Fun fact**: I'm passionate about learning new things!  
-- 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/abdullah.khaled)  
+- 📋 <strong style="color: #ff6f61;">Resume</strong>: Check out My Resume [<strong style="color: #00b4d8;">here</strong>](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
+- 💬 <strong style="color: #ff6f61;">Ask me about</strong>: <span style="color: #2a9d8f;">Machine Learning, Deep Learning, Data Science, Data Analytics</span>  
+- 📫 <strong style="color: #ff6f61;">Reach me at</strong>: [<strong style="color: #00b4d8;">dev.abdullah.khaled@gmail.com</strong>](mailto:dev.abdullah.khaled@gmail.com)  
+- ⚡ <strong style="color: #ff6f61;">Fun fact</strong>: <span style="color: #2a9d8f;">I'm passionate about learning new things!</span>  
+- 📊 <strong style="color: #ff6f61;">Tableau Projects</strong>: Check them out [<strong style="color: #00b4d8;">here</strong>](https://public.tableau.com/app/profile/abdullah.khaled)  
 
 ---
 
@@ -525,22 +525,21 @@ Built a movie recommendation system using the **MovieLens 100k** dataset, optimi
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   
-  <!-- Languages Card -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<!-- Languages Card -->
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <div style="background: linear-gradient(135deg, #6b48ff, #00ddeb); padding: 25px; border-radius: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 450px; text-align: center; animation: slideIn 1s ease-out forwards; transition: transform 0.4s ease, box-shadow 0.4s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 24px rgba(0, 0, 0, 0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.2)';">
+    <h3 style="color: #ffffff; font-family: 'Poppins', sans-serif; font-size: 26px; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);">Top Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); animation: fadeIn 1.5s ease-in-out forwards; transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(2deg) scale(1.02)';" onmouseout="this.style.transform='rotate(0deg) scale(1)';">
   </div>
+</div>
+
+
+<!-- GitHub Stats -->
+<div align="center" style="margin-top: 20px;">
+  <h3 style="color: #2c3e50;">GitHub Insights</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="animation: fadeIn 2s ease;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&theme=radical&hide_border=true" alt="Streak Stats" style="animation: fadeIn 2.5s ease;">
+</div>
   
-  <!-- Stats Card -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
-  
-  <!-- Streak Stats -->
-  <div style="text-align: center; margin-bottom: 20px;">
-    <h3>Current Streak</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&" alt="Current Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  </div>
 
 </div>
