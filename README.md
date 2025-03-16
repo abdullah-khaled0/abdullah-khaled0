@@ -1,7 +1,7 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/05/72/47/98/1000_F_572479897_5B8aBbDk4M3QnrH1lojGJJGuqnFXbjL1.jpg)
 <h1 align="center"></h1>
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> 
