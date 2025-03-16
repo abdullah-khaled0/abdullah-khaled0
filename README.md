@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/05/72/47/98/1000_F_572479897_5B8aBbDk4M3QnrH1lojGJJGuqnFXbjL1.jpg)
+![MasterHead](https://lh3.googleusercontent.com/d/1QbFcUTr2X-ITpv785_AQu5UjeFQ4T3tD=rw)
 <h1 align="center"></h1>
 
 <img align="right" alt="Coding" width="430" src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" />
